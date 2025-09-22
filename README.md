@@ -3,6 +3,12 @@
 Demo video: [How this project should work](https://drive.google.com/file/d/1oxquqLTIVec9id1bHCdJvJ0UWEHCgvke/view?usp=drive_link)
 
 Prereqs: Java 17+, Maven/Gradle, Node.js 18+, npm
+## Student Information
+
+- **Name:** Pawan Enuka
+- **Student Registration Number:** 2301671111
+- **Email Address:** enukapawan@gmail.com
+---
 
 ## Backend (API)
 ```bash
